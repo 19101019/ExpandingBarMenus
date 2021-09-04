@@ -460,7 +460,7 @@ a:focus {
 }
 
 .demo-3 .codrops-header::after {
-	content: '03';
+	content: '01';
 	font-size: 5em;
 	font-weight: bold;
 	position: absolute;
